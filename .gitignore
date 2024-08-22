@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+# IDE and editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+myenv/
+node_modules/
