@@ -1,6 +1,7 @@
 # Ignore environment folders
 myenv/
 ./venv
+venv/
 
 
 
